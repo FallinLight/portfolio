@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+    background: linear-gradient(rgba(255, 0, 0, 0.5), rgba(255, 255, 255, 0.5)),
+                        url('https://static.vecteezy.com/system/resources/previews/008/153/775/original/abstract-pattern-background-free-vector.jpg') center/cover;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+}
